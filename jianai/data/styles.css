@@ -74,6 +74,11 @@
 }
 .line {
 }
+.refs-design-apple {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+}
 .arrow {
 }
 .text_field {
@@ -118,6 +123,8 @@
 }
 .image {
 }
+.horizontal_line {
+}
 .refs-webm-wechat {
   font-family:'PingFangSC-Regular', 'PingFang SC';
   font-weight:400;
@@ -134,6 +141,34 @@
   text-align:left;
 }
 .shape {
+}
+._36号字_顶部标题、大按钮、弹窗提示主标题_ {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._32号字_单行列表内，右方操作说明的文字__） {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+}
+._30号字_服务主标题，例如双行列表内的下方描述信息。__） {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:15px;
+  text-align:left;
+}
+._28号字_页面备注信息及列表的表头说明文字__） {
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
 }
 ._24号字_最小说明文本，例如列表时间态、版权信息等） {
   font-family:'PingFangSC-Regular', 'PingFang SC';
